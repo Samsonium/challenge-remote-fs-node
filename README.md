@@ -1,2 +1,4 @@
-# challenge-remote-fs-node
-Remote file system built in NodeJS
+### Challenge goals
+- Write FS in AdonisJS
+- Implement terminal functionality through API
+- Create auth based on access_tokens for each terminal session
