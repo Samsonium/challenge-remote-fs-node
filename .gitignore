@@ -1,0 +1,20 @@
+/*
+
+# Dirs
+!/app
+!/bin
+!/config
+!/database
+!/start
+!/tests
+
+# Files
+!/.editorconfig
+!/.env.example
+!/.gitignore
+!/ace.js
+!/adonisrc.tests
+!/package-lock.json
+!/package.json
+!/README.md
+!/tsconfig.json
